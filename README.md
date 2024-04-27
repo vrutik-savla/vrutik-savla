@@ -3,7 +3,12 @@
 - My skills:
   - Basic Frontend: HTML, Css, JavaScript
   - Frontend Library: React
-  - Backend: NodeJS, Express
+  - CSS Framework: Sass, Tailwind
+  - Backend: NodeJS, Express, Mongoose, Go-lang
+  - Databases: SQL, MongoDB, Redis
+  - Tools: Postman
+  - Other languages: C, Python, Java
+- Reach me at vrutiksavla2003@gmail.com
 
 <!--
 **vrutik-savla/vrutik-savla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
