@@ -8,6 +8,8 @@
   - Databases: SQL, MongoDB, Redis
   - Tools: Postman
   - Other languages: C, Python, Java
+- 💞 I’m looking to collaborate on technologies where I can showcase my skills
+- ✨ Do checkout my repositories!
 - 📫 Reach me at vrutiksavla2003@gmail.com
 
 <!--
