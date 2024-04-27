@@ -1,6 +1,6 @@
-- Hey their, My self Vrutik Savla, a Computer Engineer Student from Mumbai University
-- My interest is in Full Stack Development
-- My skills:
+- 👋 Hey their, My self Vrutik Savla, a Computer Engineer Student from Mumbai University
+- 👀 My interest is in Full Stack Development
+- 🌱 My skills:
   - Basic Frontend: HTML, Css, JavaScript
   - Frontend Library: React
   - CSS Framework: Sass, Tailwind
@@ -8,7 +8,7 @@
   - Databases: SQL, MongoDB, Redis
   - Tools: Postman
   - Other languages: C, Python, Java
-- Reach me at vrutiksavla2003@gmail.com
+- 📫 Reach me at vrutiksavla2003@gmail.com
 
 <!--
 **vrutik-savla/vrutik-savla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
