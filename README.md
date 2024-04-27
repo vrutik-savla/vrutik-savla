@@ -1,4 +1,9 @@
-### Hi there 👋
+- Hey their, My self Vrutik Savla, a Computer Engineer Student from Mumbai University
+- My interest is in Full Stack Development
+- My skills:
+- - Basic Frontend: HTML, Css, JavaScript
+  - Frontend Library: React
+  - Backend: NodeJS, Express
 
 <!--
 **vrutik-savla/vrutik-savla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
