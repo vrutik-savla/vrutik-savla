@@ -5,6 +5,7 @@
   - Frontend Library: React
   - CSS Framework: Sass, Tailwind
   - Backend: NodeJS, Express, Mongoose, Go-lang
+  - Automation Testing: Selenium
   - Databases: SQL, MongoDB, Redis
   - Tools: Postman
   - Other languages: C, Python, Java
