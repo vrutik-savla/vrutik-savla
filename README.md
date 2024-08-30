@@ -2,16 +2,18 @@
 - 👀 My interest is in Full Stack Development
 - 🌱 My skills:
   - Basic Frontend: HTML, Css, JavaScript
-  - Frontend Library: React
+  - Frontend Library: React with Redux, Thunks, React Query, React Router & more..
+  - Full Stack Framework: NextJS
   - CSS Framework: Sass, Tailwind
   - Backend: NodeJS, Express, Mongoose, Go-lang
   - Automation Testing: Selenium
   - Databases: SQL, MongoDB, Redis
-  - Tools: Postman
+  - Tools: Postman, Jira, Git, GitHub, GitLab
   - Other languages: C, Python, Java
 - 💞 I’m looking to collaborate on technologies where I can showcase my skills
 - ✨ Do checkout my repositories!
 - 📫 Reach me at vrutiksavla2003@gmail.com
+- 📑 Resume: https://drive.google.com/file/d/1B8241shkfWuY425mn-OzmQix6B2sGrZE/view?usp=sharing
 
 <!--
 **vrutik-savla/vrutik-savla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
