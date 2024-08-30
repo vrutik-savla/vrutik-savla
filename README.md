@@ -13,7 +13,7 @@
 - 💞 I’m looking to collaborate on technologies where I can showcase my skills
 - ✨ Do checkout my repositories!
 - 📫 Reach me at vrutiksavla2003@gmail.com
-- 📑 Resume: https://drive.google.com/drive/folders/1U5WT3jMoLn8IlHfUAq9ASPYkRpvYTIJk?usp=sharing
+- 📑 Resume: https://drive.google.com/drive/folders/1OGonnfN5_q63P8VFxqzXHapqWC88i6D9?usp=sharing
 
 <!--
 **vrutik-savla/vrutik-savla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
